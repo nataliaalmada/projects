@@ -1,0 +1,6 @@
+path: C:/Users/Nat Natalia/Desktop/Natalia/vision_temporaria/P2_YOLOv8/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['fall', 'person']
