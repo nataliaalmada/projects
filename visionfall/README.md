@@ -191,8 +191,7 @@ dest_access_hash = SEU_ACCESS_HASH
 
 # YOLOv8 Modelo de Referência
 - Disponível em [GitHub](https://github.com/Tech-Watt/Fall-Detection)
-seguindo tutorial do [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm)
-- Tech Watt
+seguindo tutorial do [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm)- Tech Watt
 
 # YOLO-NAS Modelo de Referência
 - Modelo Disponível em [Kaggle](https://www.kaggle.com/code/stpeteishii/fall-detection-yolo-nas-train-predict) ou Com pequenas modificações necessárias para execução na máquina no WSL2  disponível no [Colab](https://drive.google.com/file/d/1k1Nu0BolRzG4UkjND6e6O2NIybvUXsCc/view?usp=sharing)
