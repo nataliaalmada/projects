@@ -1,0 +1,13 @@
+train: datasets/fall-detection/train/images
+val: datasets/fall-detection/valid/images
+test: datasets/fall-detection/test/images
+
+nc: 1
+names: ['Fall-Detection-person']
+
+roboflow:
+  workspace: wizo
+  project: wizo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wizo/wizo/dataset/1
