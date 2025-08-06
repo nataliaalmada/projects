@@ -1,10 +1,10 @@
 # Trabalho de Conclusão de Curso
-Universidade Federal de Roraima
-Bacharelado em Ciência da Computação
-Autora: Natália Ribeiro de Almada
-Sob Orientação do Profesor Dr. Herbert Oliveira Rocha
+-Universidade Federal de Roraima
+-Bacharelado em Ciência da Computação
+-Autora: Natália Ribeiro de Almada
+-Sob Orientação do Profesor Dr. Herbert Oliveira Rocha
 
-Projeto para Detecção de Quedas de Idosos
+## Projeto para Detecção de Quedas de Idosos
 
 Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLOv8) para comparar seus desempenhos, inicialmente com o dataset original fornecido com os modelos e, posteriormente, modificados para comportarem um dataset autoral, permitindo avaliação de performance.
 # Dataset Autoral: 
@@ -17,7 +17,7 @@ Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLO
 10 vídeos que não passaram por nenhuma fase do treinamento para serem testados. 
 Classes: "fall" e "person"
 ````
-# YOLOv8 com Dataset Autoral:
+## YOLOv8 com Dataset Autoral:
 Projeto executado em Windows 11
 
 P2_YOLOv8
@@ -42,7 +42,7 @@ P2_YOLOv8
 ```
 
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 - Treinamento e validação de modelo YOLOv8 com dados próprios.
 - Avaliação com vídeos externos.
@@ -54,7 +54,7 @@ P2_YOLOv8
 
 ---
 
-## 🛠️ Instalação
+### 🛠️ Instalação
 
 1. Clone o repositório:
    ```bash
@@ -80,7 +80,7 @@ P2_YOLOv8
 
 5. Execute as células
 
-# YOLO-NAS com Dataset Autoral:
+## YOLO-NAS com Dataset Autoral:
 Projeto executado em WSL2 através do Windows 11
 
 P2_YOLO_NAS
@@ -102,7 +102,7 @@ P2_YOLO_NAS
 ```
 
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 - Treinamento e validação de modelo YOLOv8 com dados próprios.
 - Avaliação com vídeos externos.
@@ -113,7 +113,7 @@ P2_YOLO_NAS
 - Geração de gráficos (IoU, Loss, Accuracy, Histogramas etc.) salvos em PNG.
 
 ---
-## ✅ Pré-requisitos
+### ✅ Pré-requisitos
 
 ### WSL2 no Windows
 Siga o guia oficial:
@@ -123,7 +123,7 @@ Você deve instalar:
 - **WSL2 como padrão**
 - Instale o Miniconda no WSL acitando os termos e permita que ele adicione ao PATH.
 
-## 🛠️ Instalação
+### 🛠️ Instalação
 
 1.  Crie o ambiente Conda para o projeto
    ```bash
@@ -165,22 +165,18 @@ fall-detection-yolo-nas-train-predict.ipynb
 Certifique-se de que seu dataset está no formato YOLOv5/v8:
 
 📹 Testes com Vídeos
-Coloque até 10 vídeos .mp4 em:
+Coloque até 10 vídeos de idoso caindo.mp4 em:
 
-Copiar
-Editar
 videos_teste/
-Após o teste, o sistema criará:
+-Após o teste, o sistema criará:
 
-Copiar
-Editar
 ````bash
 videos_saida/
 ├── queda/
 ├── naoQueda/
 ````
-## 📲 Integração com Telegram (opcional para ambos os modelos)
-## ✅ Pré-requisitos
+### 📲 Integração com Telegram (opcional para ambos os modelos)
+### ✅ Pré-requisitos
 
 ### Ter pelo menos uma conta no [Telegram](https://web.telegram.org)
 1. Crie um app no [Telegram](https://my.telegram.org) 
