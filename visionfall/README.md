@@ -1,8 +1,8 @@
 # Trabalho de Conclusão de Curso
--Universidade Federal de Roraima
--Bacharelado em Ciência da Computação
--Autora: Natália Ribeiro de Almada
--Sob Orientação do Profesor Dr. Herbert Oliveira Rocha
+- Universidade Federal de Roraima
+- Bacharelado em Ciência da Computação
+- Autora: Natália Ribeiro de Almada
+- Sob Orientação do Profesor Dr. Herbert Oliveira Rocha
 
 ## Projeto para Detecção de Quedas de Idosos
 
