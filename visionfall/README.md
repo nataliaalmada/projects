@@ -140,7 +140,7 @@ P2_YOLO_NAS
 
 ### WSL2 no Windows
 Siga o guia oficial:
-- https://learn.microsoft.com/pt-br/windows/wsl/install
+- [Microsoft](https://learn.microsoft.com/pt-br/windows/wsl/install)
 Você deve instalar:
 - **Ubuntu**
 - **WSL2 como padrão**
