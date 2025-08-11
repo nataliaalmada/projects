@@ -35,9 +35,9 @@ Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLO
 10 vídeos que não passaram por nenhuma fase do treinamento para serem testados. 
 Classes: "fall" e "person"
 ````
-![Dataset Organizado Para o v8](https://github.com/nataliaalmada/projects/tree/main/visionfall/Modelo_YOLOv8_Dataset_Autoral/dataset)
+> [Dataset Organizado Para o v8](https://github.com/nataliaalmada/projects/tree/main/visionfall/Modelo_YOLOv8_Dataset_Autoral/dataset)
 
-![Dataset Organizado Para o NAS](https://github.com/nataliaalmada/projects/tree/main/visionfall/Modelo_YOLO_NAS_Dataset_Autoral/datasetNAS)
+> [Dataset Organizado Para o NAS](https://github.com/nataliaalmada/projects/tree/main/visionfall/Modelo_YOLO_NAS_Dataset_Autoral/datasetNAS)
 
 [Vídeos Separados Para Testagem Final](https://github.com/nataliaalmada/projects/tree/main/visionfall/Modelo_YOLOv8_Dataset_Autoral/videos_teste)
 ## YOLOv8 com Dataset Autoral:
