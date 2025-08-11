@@ -9,7 +9,8 @@
 Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLOv8) para comparar seus desempenhos, inicialmente com o dataset original fornecido com os modelos e, posteriormente, modificados para comportarem um dataset autoral, permitindo avaliação de performance.
 # Dataset Autoral: 
 > [!WARNING]
-> **Disclaimer Legal:** Este dataset consiste em frames extraídos de vídeos publicamente disponíveis no YouTube, compilados exclusivamente para pesquisa acadêmica não comercial e desenvolvimento de sistemas de IA para detecção de quedas em idosos. Ao utilizá-lo, você concorda expressamente que:  
+> **Disclaimer Legal:** Este dataset consiste em frames extraídos de vídeos publicamente disponíveis no YouTube, compilados exclusivamente para pesquisa acadêmica não comercial e desenvolvimento de sistemas de IA para detecção de quedas em idosos. Ao utilizá-lo, você concorda expressamente que:
+
 > Todo o material visual deriva de vídeos públicos, mas a propriedade intelectual permanece com os titulares originais (criadores, instituições ou indivíduos), conforme os Termos de Serviço do  [YouTube](https://www.youtube.com/t/terms) e leis de direitos autorais;
 
 > A extração de frames não autoriza uso comercial, redistribuição ou aplicações fora de pesquisa em saúde, segurança do idoso ou ciência de dados;
@@ -213,9 +214,9 @@ dest_access_hash = SEU_ACCESS_HASH
 
 # YOLOv8 Modelo de Referência
 - Disponível em [GitHub](https://github.com/Tech-Watt/Fall-Detection)
-seguindo tutorial do [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm)- Tech Watt
+seguindo tutorial da Autoria de: [YouTube](https://youtu.be/wrhfMF4uqj8?si=bgvQIP8dlM2cwJRm)- Tech Watt
 
 # YOLO-NAS Modelo de Referência
-- Modelo Disponível em [Kaggle](https://www.kaggle.com/code/stpeteishii/fall-detection-yolo-nas-train-predict) ou Com pequenas modificações necessárias para execução na máquina no WSL2  disponível no [Colab](https://drive.google.com/file/d/1k1Nu0BolRzG4UkjND6e6O2NIybvUXsCc/view?usp=sharing)
-- Dataset Disponível em [Kaggle](https://www.kaggle.com/datasets/elwalyahmad/fall-detection)
+- Modelo Disponível em [Kaggle](https://www.kaggle.com/code/stpeteishii/fall-detection-yolo-nas-train-predict) Da autoria de [@stpeteishii](https://www.kaggle.com/stpeteishii) ou Com pequenas modificações necessárias para execução na máquina no WSL2  disponível no [Colab](https://drive.google.com/file/d/1k1Nu0BolRzG4UkjND6e6O2NIybvUXsCc/view?usp=sharing) 
+- Dataset Disponível em [Kaggle](https://www.kaggle.com/datasets/elwalyahmad/fall-detection) Da autoria de [@selwalyahmad](https://www.kaggle.com/elwalyahmad)
 - Coco, pesos pré-treinados disponíveis em [Hugging Face](https://huggingface.co/bdsqlsz/YOLO_NAS/blob/main/yolo_nas_l_coco.pth)
