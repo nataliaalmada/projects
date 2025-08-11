@@ -10,7 +10,7 @@ Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLO
 # Dataset Autoral: 
 > [!WARNING]
 > **Disclaimer Legal:** Este dataset consiste em frames extraídos de vídeos publicamente disponíveis no YouTube, compilados exclusivamente para pesquisa acadêmica não comercial e desenvolvimento de sistemas de IA para detecção de quedas em idosos. Ao utilizá-lo, você concorda expressamente que:  
-> Todo o material visual deriva de vídeos públicos, mas a propriedade intelectual permanece com os titulares originais (criadores, instituições ou indivíduos), conforme os Termos de Serviço do YouTube [YouTube](https://www.youtube.com/t/terms) e leis de direitos autorais;
+> Todo o material visual deriva de vídeos públicos, mas a propriedade intelectual permanece com os titulares originais (criadores, instituições ou indivíduos), conforme os Termos de Serviço do  [YouTube](https://www.youtube.com/t/terms) e leis de direitos autorais;
 
 > A extração de frames não autoriza uso comercial, redistribuição ou aplicações fora de pesquisa em saúde, segurança do idoso ou ciência de dados;
 
