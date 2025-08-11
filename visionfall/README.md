@@ -8,6 +8,21 @@
 
 Este projeto tem como objetivo utilizar dois modelos existentes (YOLO-NAS e YOLOv8) para comparar seus desempenhos, inicialmente com o dataset original fornecido com os modelos e, posteriormente, modificados para comportarem um dataset autoral, permitindo avaliação de performance.
 # Dataset Autoral: 
+> [!WARNING]
+> **Disclaimer Legal::** EEste dataset consiste em frames extraídos de vídeos publicamente disponíveis no YouTube, compilados exclusivamente para pesquisa acadêmica não comercial e desenvolvimento de sistemas de IA para detecção de quedas em idosos. Ao utilizá-lo, você concorda expressamente que:  
+> Todo o material visual deriva de vídeos públicos, mas a propriedade intelectual permanece com os titulares originais (criadores, instituições ou indivíduos), conforme os Termos de Serviço do YouTube [YouTube](https://www.youtube.com/t/terms) e leis de direitos autorais;
+
+> A extração de frames não autoriza uso comercial, redistribuição ou aplicações fora de pesquisa em saúde, segurança do idoso ou ciência de dados;
+
+> Uso comercial ou publicação das imagens exige permissão explícita dos detentores dos direitos;
+
+-A criadora deste dataset não se responsabilizam por:
+
+> Violações de direitos autorais ou de imagem cometidas por usuários,
+
+> Precisão clínica ou viés dos dados compilados,
+
+> Consequências de uso indevido (vigilância não autorizada, discriminação algorítmica, etc.).
 
 
 ```bash
