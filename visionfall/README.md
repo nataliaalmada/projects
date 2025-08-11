@@ -139,8 +139,8 @@ P2_YOLO_NAS
 ### ✅ Pré-requisitos
 
 ### WSL2 no Windows
-Siga o guia oficial:
-- [Microsoft](https://learn.microsoft.com/pt-br/windows/wsl/install)
+Siga o guia oficial[Microsoft](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
 Você deve instalar:
 - **Ubuntu**
 - **WSL2 como padrão**
